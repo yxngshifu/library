@@ -1,0 +1,462 @@
+html {
+  min-height: 100%;
+}
+a:link {
+      text-decoration: none;
+}
+
+a:visited {
+      text-decoration: none;
+}
+
+a:hover {
+      text-decoration: none;
+}
+
+a:active {
+      text-decoration: none;
+}
+
+h1{
+    position: absolute;
+width: 114px;
+height: 44px;
+left: 800px;
+top: -250px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 44px;
+color: #030108;
+}
+h2{
+    position: absolute;
+width: 301px;
+height: 22px;
+left: 800px;
+top: -200px;
+
+/* Body/Body 1 */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+
+/* Text/Black */
+
+color: #030108;
+
+
+}
+.loginbtn{
+   display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 8px;
+
+position: absolute;
+width: 440px;
+height: 48px;
+left: 860px;
+top: 613px;
+
+/* Primary/primary 1 */
+
+background: #10002B;
+border-radius: 4px;
+
+width: 440px;
+height: 40px;
+
+/* BODY 1 */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 140%;
+color: #F4EDFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+
+.emailadd{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 440px;
+height: 82px;
+left: 860px;
+top: 345px;
+}
+.email{
+    width: 100px;
+height: 22px;
+
+/* Title/semibold */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Text/Black */
+
+color: #030108;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.email2{
+    box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 16px;
+
+width: 440px;
+height: 56px;
+
+/* Grey/Grey5 */
+
+border: 1px solid #AAAAAA;
+border-radius: 4px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+.password1{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 440px;
+height: 82px;
+left: 860px;
+top: 459px;
+
+}
+.password2{
+    width: 100px;
+height: 22px;
+
+/* Title/semibold */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Text/Black */
+
+color: #030108;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.password3{
+    box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 16px;
+
+width: 440px;
+height: 56px;
+
+/* Grey/Grey5 */
+
+border: 1px solid #AAAAAA;
+border-radius: 4px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+}
+.banner{
+   position: absolute;
+width: 596px;
+height: 411px;
+left: 62px;
+top: 493px;
+
+background: linear-gradient(216.01deg, #10002B 21.05%, rgba(16, 0, 43, 0.45) 93.4%);
+backdrop-filter: blur(10px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 16px;
+}
+.banner p1{
+    position: absolute;
+width: 517px;
+height: 132px;
+left: 70px;
+top: 74px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 44px;
+color: #F4EDFF;
+}
+.banner p2{
+    position: absolute;
+width: 204px;
+height: 44px;
+left: 70px;
+top: 248px;
+
+/* H3/Bold */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+/* identical to box height */
+
+
+/* Text/white */
+
+color: #F4EDFF;
+
+}
+.banner p3{
+    position: absolute;
+width: 102px;
+height: 44px;
+left: 70px;
+top: 308px;
+
+/* Body/Body 1 */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+
+/* Text/white */
+
+color: #F4EDFF;
+}
+.container{
+    position: absolute;
+width: 720px;
+height: 1024px;
+left: 0px;
+top: 0px;
+background: url(Rectangle3.png);
+}
+.google{
+
+position: absolute;
+width: 148px;
+height: 22px;
+left: 156px;
+top: 17px;
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+
+display: flex;
+align-items: center;
+
+
+color: #030108;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 8px;
+
+position: absolute;
+width: 440px;
+height: 48px;
+left: 860px;
+top: 750px;
+
+/* Primary/primary 1 */
+
+border-radius: 4px;
+
+width: 440px;
+height: 40px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 140%;
+color: #030108;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.login-form p1{
+    width: 190px;
+height: 22px;
+
+/* Body/Body 1 */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Text/Black */
+
+color: #030108;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+position: absolute;
+width: 440px;
+height: 48px;
+left: 860px;
+top: 800px;
+}
+.login-form p2{
+    width: 115px;
+height: 22px;
+
+/* Body/Body 1 */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 17px;
+
+position: absolute;
+width: 429px;
+height: 22px;
+left: 1030px;
+top: 693px;
+
+/* Text/Black */
+
+color: #030108;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.line2{
+     position: absolute;
+width: 140px;
+height: 0px;
+
+border: 1px solid #000000;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+background: url(line2.png);
+position: absolute;
+width:150px;
+height: 1px;
+left: 860px;
+top: 705px;
+
+}
+.line3{
+      position: absolute;
+width: 140px;
+height: 0px;
+
+border: 1px solid #000000;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+background: url(line2.png);
+position: absolute;
+width:150px;
+height: 1px;
+left: 1150px;
+top: 705px;
+
+}
+

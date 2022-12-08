@@ -1,0 +1,280 @@
+.dashboard{
+    position: absolute;
+width: 333px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+/* Primary/primary 1 */
+
+background: #10002B;
+}
+p1{
+    width: 83px;
+height: 24px;
+
+/* MEDIUM */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+position: absolute;
+width: 333px;
+height: 52px;
+left: 20px;
+top: 151px;
+
+
+
+color: #030108;
+
+
+}
+p2{
+    width: 66px;
+height: 24px;
+
+/* MEDIUM */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+/* Text/white */
+
+color: #F4EDFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+p3{
+    width: 102px;
+height: 24px;
+
+/* MEDIUM */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+/* Text/white */
+
+color: #F4EDFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+p4{
+    width: 61px;
+height: 24px;
+
+/* MEDIUM */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+/* Text/white */
+
+color: #F4EDFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+p5{
+    width: 66px;
+height: 24px;
+
+/* MEDIUM */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+/* Text/white */
+
+color: #F4EDFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+p6{
+    width: 60px;
+height: 24px;
+
+/* MEDIUM */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+/* Text/white */
+
+color: #F4EDFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+p7{
+    width: 61px;
+height: 24px;
+
+/* MEDIUM */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+/* Text/white */
+
+color: #F4EDFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.reading{
+    position: absolute;
+width: 461px;
+height: 454px;
+left: 357px;
+top: 201px;
+
+/* Text/white */
+
+background: #F4EDFF;
+border-radius: 16px;
+}
+.reading h2{
+    position: absolute;
+width: 78px;
+height: 27px;
+left: 32px;
+top: 16px;
+
+/* Header/H5/Semibold */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}
+.mygoals{
+    position: absolute;
+width: 461px;
+height: 313px;
+left: 357px;
+top: 679px;
+
+/* Text/white */
+
+background: #F4EDFF;
+border-radius: 16px;
+}
+.mygoals h2{
+    position: absolute;
+width: 85px;
+height: 27px;
+left: 24px;
+top: 32px;
+
+/* Header/H5/Semibold */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}
+.mygoals p1{
+    width: 187px;
+height: 22px;
+
+/* Text/Body 1 */
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.recentlyread{
+    position: absolute;
+width: 574px;
+height: 791px;
+left: 842px;
+top: 201px;
+
+/* Text/white */
+
+background: #F4EDFF;
+border-radius: 16px;
+}
